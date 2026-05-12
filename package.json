@@ -9,7 +9,6 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "mock-api": "json-server --watch db.json --port 3001"
-
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.0",
